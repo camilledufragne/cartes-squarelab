@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:BERTRAND;Thibault;;;
+FN:Thibault BERTRAND
+ORG:Open Incubateur SquareLab
+TITLE:Startup Manager
+EMAIL;TYPE=WORK:thibault.bertrand@clermont-sb.fr
+TEL;TYPE=CELL:0688483229
+URL:https://incubateur.clermont-sb.fr/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/thibault-bertrand-5abb97181/
+END:VCARD

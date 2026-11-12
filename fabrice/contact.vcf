@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:CAILLOUX;Fabrice;;;
+FN:Fabrice CAILLOUX
+ORG:Open Incubateur SquareLab
+TITLE:Responsable entrepreneuriat
+EMAIL;TYPE=WORK:fabrice.cailloux@clermont-sb.fr
+TEL;TYPE=CELL:0661634515
+URL:https://incubateur.clermont-sb.fr/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/fabrice-cailloux/
+END:VCARD
